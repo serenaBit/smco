@@ -1,0 +1,12 @@
+Menu: 
+pizza Item:
+	- photo
+	- name *
+	- ingredients
+	- price *
+	- size *
+	- custom ingredients
+	- allergy
+	- quantity *
+	- reviews
+	- add to cart *

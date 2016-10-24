@@ -6,11 +6,22 @@
 - start with the content 
 
 1 step: CONTENT INVENTORY
-- it's a list of the content in a page
+	- it's a list of the content in a page
+	- Big CHUNKS --> cosa dobbiamo inserire (blocchi)
+	- Small Chunks --> singoli componenti
+	Prima si pensa ai big chunks e poi ai small chunks
+	- ordering --> priorities are important (MIP: MOst Important Point)
+	Il MIP dovrebbe essere sempre centrale, semre visibile immediatamente!
+	Impotrtante fa r si che per l'utente il pesorco per fare ciò che devono fare sia il più corto possibile
 
-- Big CHUNKS --> cosa dobbiamo inserire (blocchi)
-- Small Chunks --> singoli componenti
-Prima si pensa ai big chunks e poi ai small chunks
-- ordering --> priorities are important (MIP: MOst Important Point)
-Il MIP dovrebbe essere sempre centrale, semre visibile immediatamente!
-Impotrtante fa r si che per l'utente il pesorco per fare ciò che devono fare sia il più corto possibile
+	* Sia per designer che per developer la cosa più frustante è ricevere informazioni dopo aver iniziato
+
+	Cos'è un COMPONENTE? dipende, si può scegliere all'inteerno del team come definire i componenti. 
+
+	* Non progettiamo PAGINE WEB ma SISTEMI di COMPONENTI RIUTILIZZABII *
+
+	Component notes:
+	- riutilizzabili in contesti diversi
+	- diversti 'stati' del componente
+	- possono perdere informazioni
+	- possono dipendere dal contesto

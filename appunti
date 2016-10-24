@@ -5,7 +5,7 @@
 - design: form + content --> content is important, can't be ignored
 - start with the content 
 
-1 step: CONTENT INVENTORY
+1° step: CONTENT INVENTORY
 	- it's a list of the content in a page
 	- Big CHUNKS --> cosa dobbiamo inserire (blocchi)
 	- Small Chunks --> singoli componenti
@@ -26,7 +26,7 @@
 	- possono perdere informazioni
 	- possono dipendere dal contesto
 
-2 step: WIREFRAMES
+2° step: WIREFRAMES
 	Delivery pericolose perchè ci sono delle cose che ancora non si possono prevedere.
 	Dovrebbero essere uno strumento interno, non da condividere con il cliente.
 	Non troppi dettagliati: la conversazione non dove essere sui dettagli, ma sul macro
@@ -34,7 +34,7 @@
 	Relazione ffra i pezzi: meno importante il contenuto
 	Si inserisce la NAVIGAZIONE: anche e soprattutto per dispositivi mobile
 
-3 step: STRUTTURA
+3° step: STRUTTURA
 * Use real content: in design is important to know real content, as early as you can. You 	need to know what yuo have to design *
 When you can't get actually content, try to know how much you can about it.
 Real content --> better design
@@ -53,7 +53,7 @@ esercizio css: https://flukeout.github.io/
 	(Stephen Few's bullet graphs)
 	breakpoint: dove il design non regge più (ma va?)
 
-5 step: SKETCHING
+5° step: SKETCHING
 	sketching is low-fi and faast
 	Alinizoi gli sketch sono molto simili, è difficile superare gli schemi classici, che si sono 
 	già visti anche molte volte
@@ -63,5 +63,12 @@ esercizio css: https://flukeout.github.io/
 	dopo ogni fase: si decide cossa tenere e cosa cambiare
 	Sketching veeeloce, 5 min e poi ancora 5 minuti, un sacco di idee nuove nei secondi 5 minuti
 
+
+6° step: browser based comps
+	** come prototipi ma meno impo alle funzionalità e a linkare le pagine 
+	- psd: molto difficlli da mantenere, avere tutti i breakpoint in file genera moltissimi files
+	- mockups in browser are more realistic
+	- il cliente vede ciò che può ottenere, non un'idea grafica che magari è irrealizzabile
+	- in browser: version control systems
 
 

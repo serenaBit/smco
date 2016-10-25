@@ -44,5 +44,8 @@ HOW TO FIND WHAT DESIGN FACTORS INFLUENCE CONVERSATION RATES - Tammy Everts
 	- dop facebook e google che sono molto beloci il sito che si aprirà sembrerà ancora più lento
 	- se migliorando le performance delle pagine il business non migliora, è molto frustante --> conversion impact score per capire quali pagine bisogna ottimizzare
 	- per fare questo calcolo però ervono molti dati 
-	 
+
+	* Il numero di elemmti nel DOM conta MOLTO!! (optimal: 400-700)
+	Il numero di immagini importa molto, così come il formato di queste e ancche il modo in cui si caricano (e precaricano! impo, sia per progressive jpeg che per gli sfondi colorati)
+	
 

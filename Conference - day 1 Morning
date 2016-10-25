@@ -1,0 +1,48 @@
+smashed.by/day1 --> slides
+
+TO HELL FOR TYPE - Marcin Wichary
+	medium --> each platform had some problem 
+	- all underline on medium are gradients 
+	- textshadow of the color of the beackground just for broke the underline for discendant
+	? -apple-system --> ight fot for apple version (it's gonna disappear)
+
+
+DESIGNING MEANINGFUL ANIMATION - Val Head
+	- animation have to have a purpose
+	- the12principles.tumblr.com
+	- timing and spacing: timing --> most important principle in animation
+	- timing: duration
+	- spacing: changing of speed
+	- follow through: non tutto si ferma di botto
+	- secondary action: azione secondaria che accompagna la primaria
+	- similar objects animate in similar way: principio di somiglianza
+	- entrata e uscita dallo stesso punto
+	- artofthetitle.com
+	- capptivate.co
+	- uyi.io
+
+DESIGNING FOR DISPLAY - Jessica Svendsen
+	blabla
+
+
+HOW TO FIND WHAT DESIGN FACTORS INFLUENCE CONVERSATION RATES - Tammy Everts
+	correggere gli errori importanti nelle pagine iportatnti
+	- performance: divere mertriche per misurare le performanca --> tecniche, di business..
+	quali sono però i problemi di design che importano di più? --> dipende  da quali metriche e quali pagine sono più importanti
+	METRICHE
+		- machine learning per raccogliere dati 
+		- best indicator: dom ready !!
+		- altro impo indicator: tempo di leading della sessione
+		- atro impo: start render (non supportato però come misurazione da molti browser)
+		- ad es amazon cares about start render and repeat views
+		- www.w3.org/TR/user-timing 
+		- usertiming: cucstom measure of your page metrics (anche dei singoli elelemnti della pagina)
+	PAGINE
+	- non si possono ottimizzare TUTTE le pagine (e non è neanche nescessario)
+	- le pagine più importatni cambiano da progetto a progetto 
+	- la reazione delle persone dipende motlo dal loro obiettivo e anche dalla 		nazionalità e da quale fonte sono arrivati al sito
+	- dop facebook e google che sono molto beloci il sito che si aprirà sembrerà ancora più lento
+	- se migliorando le performance delle pagine il business non migliora, è molto frustante --> conversion impact score per capire quali pagine bisogna ottimizzare
+	- per fare questo calcolo però ervono molti dati 
+	 
+

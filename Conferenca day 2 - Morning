@@ -80,7 +80,41 @@ RESPONSIVE WEB APPS WITH CONTAINERS QUERIES - Jonathan Snook
 
 
 REVOLUTIONIZE YOUR PAGE: REAL ART DIRECTION ON THE WEB - Jen Simmons
+	Art direction --> intentionaly create a conversation with a audience
+	- You're not gonna do something new, no new font, no new color pattern, but you will create the right conversation
+	- you're always writing a story
+	- we're BORED 
+	- non bisgone pescare sempre dalle stesse griglie
+	- meglio usare tool personalizzati, come bootstrap ma fatti in casa
+	- i tool non evo definire il design
+	- prima si crea il design e poi il tool per supportarlo
+	- CSS grid is a framework, don't create a one based on it
+	- insipiration is not in other website, but in other media: books, magazine, architecture... es: grid and pages layout, layout essential ...
+	- labs.jensimmon.com
+
+	CSS in piccole cose
+	* Initial letter in css : initial-letter: n;  n è di quanto è moltiplicato la prima lettera
+	** impo usisng @support!!
+	con display: flex, se il contenuto ha margin: auto si centrerà (urray)
+
+	* object-fit (ottieni l'effetto dell'immagine come sfondo ma l'immagine è nel html) (urray)
+	* shape-outside
 	
+	Impo in grafica: 
+	- Drop and raised cap
+	- not-rectangular pages
+
+	CSS in grandi cose
+	- flexbox: 1 dimensions (horizontal or vertivcal)
+	- grid layout: 2 dimensions (horizontal and vertical)
+		using grid you don't have to get stick to the grid, yuou can have block that don't align in the grid
+
+	Grid layout doesn't need media queries! (urray)
+	grid-auto-flow: dense (i box occupano ttto lo spazio, se qualcosa non ci sta, magari ci sta il box dopo)
+
+	Web design need to break the boriness
+
+	www.layout.land
 
 DESIGNING CHOICE - Adrian Zummbrunnen
 

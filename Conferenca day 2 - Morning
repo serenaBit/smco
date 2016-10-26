@@ -1,0 +1,59 @@
+MYSTERY SPEAKER - John Allsopp  http://alistapart.com/article/dao
+	Talking about the future
+	* what will you invest your next 10 years in?
+	every important work takes decades
+	sistema newtoniano --> possibile preveeder il futuro sapendo alcune info del presente
+	negli anni 70 --> teoria del caos, butterfly effect: impossibikità del prevedere il futuro
+	""Star fire"" on youtube, try to predict the future
+	koomey's Law --> battery gets twice as good every year 
+	Metcalfe's Law --> the value of a telecommuniaction network is proportional to the square of hte number of connected users
+	When you buil d something new you want to get hype in adoption
+	es: netflix predict about the potential of the net to get faster anf invest in it (and win)
+
+	COme prevedere il futuro?
+	- Alan Kay: the best way to predict the future is to invent it
+
+	Allsopp prefdictions:
+	- the browser will disappear --> difference between app and web is not important
+	- platform will disappear --> many device, game consolle, smart tv, smartphone: computer wil be eveerywhere
+	- the screen will disappear 
+	- the app will disappear --> le app native sono giurassiche, gli utenti non installano più app
+	- data platform will emerge --> internet of things (is a design problem, not a tecnology problem because the tecnology is already there)
+
+	Per scoprire il futuro: bisogna indagare, farsi domande, esplorare e essere propositivi.
+
+
+SELLING DESIGN SYSTEM - Laura Elizabeth
+es: lightning design system
+	Pattern libraries are not always needed! 
+	the client need to really see the value of it --> we need to sell it
+	1. what kind of design system do you need?
+		depend on: the size of the company, the maturity of the brand (se si spende molto tempo a creare una libreria di pattern, bisgona essere sicuri che lo stile della compagnia non cambierà a breve), the mentality, the problem to solve (do you actually have a problem?)
+		Impo: se nessuno lo usa, è inutile
+		DOmanda importante: i patter system permettono davere di rispettare tempo e denaro? è difficile trovare casi di studio
+		- Amazon Web Service says that design system was the onluy way to do what they do
+		- A. Kholmativa says that make a reusable components takes 2 or 3 time the time to create the usual components; buut the company was also using the reusable component even when wasn't perfect, just to justificate it, to get to the 2 or 3 uses that will pay it back 
+
+	2. Selling Design System
+		Non ci sono garanzie che ti peremtterà di risparmiare, in erlaà depende.
+		Ciò che si vende non è un designsystem ma la soluzione a un problema, quindi se on c'è un preoblem ada risolvere è uno spreco
+		(il problema può essere, aumentare il tasso di conversione, le vnedite, il tempo di permanenza... il prodotto da vendere non è il sito web ma la soluzione a un problema)
+
+	Per trovare la soluzione giusta:
+	- listen your client, yours colleagues, the users...
+	- identify pain points of the users
+	- workshop: per identificare i problemi nel sito (bradfrost.com/blog/post/interface-inventory)
+	- user tests --> far vedere che i problemi identificati sono effettivamente quelli segnalati (fare più check, prima con il cito così come è poi con alcune modifiche suggerite per vedere se il processo  migliorato)
+	
+
+RESPONSIVE WEB APPS WITH CONTAINERS QUERIES - Jonathan Snook
+
+REVOLUTIONIZE YOUR PAGE: REAL ART DIRECTION ON THE WEB - Jen Simmons
+
+
+DESIGNING CHOICE - Adrian Zummbrunnen
+
+CONVERSION RATE OPTIMIZATION TECHNIQUES IN ECOMMERCE - Christian Holst
+
+
+THE WEBSITE OBESITY CRISIS - Maciej Ceglowski

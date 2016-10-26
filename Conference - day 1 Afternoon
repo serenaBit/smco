@@ -45,3 +45,4 @@ SVG IN MOTION - Sara Soueidan
 	- per passare direttamente al contenuto, senza leggere di nuovo menu e header, aggiungere un link 'skip to the content' che è nascosto da css ma si mostra all'active (con tab navigation)
 
 RESILIENCE
+	- use HTML + URL + HTTP -->  this are the strongthing, js is frsagile. why using something that will no render anything if there's just one error?

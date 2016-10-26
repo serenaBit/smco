@@ -22,10 +22,26 @@ THE TAIL AND ITS DOG - Stephen Hay
  	- zoom in and zoom out
 HOW TESTERS CAN BE A LIABILITY FOR YOUR TEAM - Ulrika Malmgren
 
-SVG IN MOTION
+SVG IN MOTION - Sara Soueidan
 	- smashing website redisegn
 	- box-decoration-break per il problema del padding nel testo
 	- http://dowebsitesneedtolookexactlythesameineverybrowser.com/
 	- nested link: inserire il link interno in un object tag, oppure mettere un tag a alla fine e strecharlo a coprire tutto il blocco (in cui ci saranno anche gli altri link), oppure (siccome il titolo era già il link grande) stretchare l'altezzo del titolo (con un after)
 	- responsive typography (min e max font size --> the rest vw)
+	- css counters --> per contare qualsiasi cosa nell'html
+
+	SVG or PNG or else 
+	- l'icona è una decorazione? --> bacjground
+	- l'icona deve avere una trnasizione? --> inline
+	- l'icona ha una funziona? --> inline + accessibilità
+	- qual è la fallback migliore per l'immagine? (testo, un'altro formato di immagine..)
+	- cos'è meglio per le performance? --> se inline si aumentano gli elementi del DOM
+	
+	ACCESABILITY
+	- screen reader only tag! per rendere le icone più accessibili
+	- oppure aggiungere il tag title al tag svg
+	- aria controls per collegare gli elementi anch ese non sono vicini
+	- lo screen reader oslo si concentra su una parte della pagina alla volta, se cambia qualcosa nel resto della pagina non lo comounicherà all'utente
+	- per passare direttamente al contenuto, senza leggere di nuovo menu e header, aggiungere un link 'skip to the content' che è nascosto da css ma si mostra all'active (con tab navigation)
+
 RESILIENCE

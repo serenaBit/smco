@@ -37,14 +37,18 @@ CONVERSION RATE OPTIMIZATION TECHNIQUES IN ECOMMERCE - Christian Holst
 
 	ogni sito potrebbe aumentare del 35% le vendite migliorndo il processo di checkout (35% increase in conversion rate)
 
-	1. checkout length: 
+	1. Checkout length: 
 		in 2012, 5.08 checkout step
 		in 2016, 5.42 step long
 		number of step doesn't make a good or bad checkout
-		Impo: what user have to do, and how we ask them
-
+		**Impo: what user have to do, and how we ask them
 		average form fields number: 14.88, but only 7 are really needed
-
+	2. Privacy issue
+		It's a major issue. People don't want give some info at the online shoppping site (es: passport number, phone number)
+		es phone number: make it optional, or explain why is required
+	3. Review step pitfall
+		Nella pagina di recap, molti pensano di essere già nella pagina di conferma quindi escono dalla pagina (e non riceveranno niente)
+		solution: spostere il bottone continua nella parte alta della pagina, non in fondo
 
 
 THE WEBSITE OBESITY CRISIS - Maciej Ceglowski

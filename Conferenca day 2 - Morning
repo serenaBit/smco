@@ -44,16 +44,46 @@ es: lightning design system
 	- identify pain points of the users
 	- workshop: per identificare i problemi nel sito (bradfrost.com/blog/post/interface-inventory)
 	- user tests --> far vedere che i problemi identificati sono effettivamente quelli segnalati (fare più check, prima con il cito così come è poi con alcune modifiche suggerite per vedere se il processo  migliorato)
-	
 
 RESPONSIVE WEB APPS WITH CONTAINERS QUERIES - Jonathan Snook
 
-REVOLUTIONIZE YOUR PAGE: REAL ART DIRECTION ON THE WEB - Jen Simmons
+	Container queries will allow developers to vary the layout within specific elements on a page (and their children) based on the dimensions of the parent elements themselves, allowing for much more modular approaches to layout.
 
+	before responsive web design, redirect on a mobile website
+	when we talk about support multiple devices, we don't now wih one will be the next device
+	- templeta accessibile: la capacità del template di essere modificato facilmente da qualsiasi persona del progetto
+
+	How to design for responsive?
+	- every page can be art directed individually
+	- the components may need to respond differently in different context (so yo can't art direct every single pages)
+	- with media queries you have to know the possible interplay of all objects
+
+	* with container queries you only have to know the interplay within a single object *
+
+	container queries is not implimented in css, we have to use js
+	- ci sono polyfill, plugin.. es eq.js 
+	- deifinire l'oggetto in js, con classe e una minWidth e maxWIdth asegnata
+	new feautres automatically have cross-device support --> non si triplica il lavoro per rendere la componente accessibile su tablet e mobile
+
+	- al ivello di desgin, un consiglio è evitare troppo sviluppo orizzontale
+	- focus on primary action! 
+	* always work in team
+
+	Problema: different tech stacks --> ogni tech gruppo utilizzava stack diversi
+	* make the right things easy and the wrong things hard *
+		- definire standard per il codice
+
+	with flexbox media queries are not even needed
+	container queries enable faster development because we can think about components and no about pages (same compoennt may be different in different pages)
+
+	http://ricg.io --> responsive issue community group
+
+
+REVOLUTIONIZE YOUR PAGE: REAL ART DIRECTION ON THE WEB - Jen Simmons
+	
 
 DESIGNING CHOICE - Adrian Zummbrunnen
 
 CONVERSION RATE OPTIMIZATION TECHNIQUES IN ECOMMERCE - Christian Holst
-
 
 THE WEBSITE OBESITY CRISIS - Maciej Ceglowski

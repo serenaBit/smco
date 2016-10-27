@@ -37,7 +37,7 @@ CONVERSION RATE OPTIMIZATION TECHNIQUES IN ECOMMERCE - Christian Holst
 
 	ogni sito potrebbe aumentare del 35% le vendite migliorndo il processo di checkout (35% increase in conversion rate)
 
-	1. Checkout length: 
+	1. Checkout length
 		in 2012, 5.08 checkout step
 		in 2016, 5.42 step long
 		number of step doesn't make a good or bad checkout
@@ -49,6 +49,10 @@ CONVERSION RATE OPTIMIZATION TECHNIQUES IN ECOMMERCE - Christian Holst
 	3. Review step pitfall
 		Nella pagina di recap, molti pensano di essere già nella pagina di conferma quindi escono dalla pagina (e non riceveranno niente)
 		solution: spostere il bottone continua nella parte alta della pagina, non in fondo
+	4. Adaptive Error Messages
+		errori genercii portano l'utente ad abbandonare perchè non capisce cosa sta sbagliando
+	5. Password requirements
+		18.75% of all account users abandoned (non si ricordano password che hanno dovuto creare velocemente per fare l'acquisto)
 
 
 THE WEBSITE OBESITY CRISIS - Maciej Ceglowski
